@@ -1,0 +1,7 @@
+
+canvas { border: 1px solid #ccc; touch-action: none; }
+.toolbar { margin-top: 10px; }
+button.color { width: 30px; height: 30px; border: none; margin: 2px; cursor: pointer; }
+#neighborhood { display: flex; justify-content: space-around; margin-top: 20px; flex-wrap: wrap; }
+.slot { width: 100px; height: 120px; background: lightgreen; border: 2px dashed gray; display: flex; align-items: center; justify-content: center; margin: 5px; }
+.slot img { max-width: 100%; max-height: 100%; }
